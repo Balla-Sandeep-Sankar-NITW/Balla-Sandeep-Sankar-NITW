@@ -1,7 +1,7 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey%20there%2C%20I'm%20Balla%20Sandeep%20Sankar%20%F0%9F%91%8B&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=16"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey%20there%2C%20I'm%20Balla%20Sandeep%20Sankar%20%F0%9F%91%8B&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Python%20Backend%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=16"
   alt="Header Banner"
   width="100%"
 />
